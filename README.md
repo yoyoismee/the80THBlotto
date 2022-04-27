@@ -1,4 +1,4 @@
-# we aim to solve 80 THB lotto with "BLOCKCHAIN"
+# 80 THB lotto with "BLOCKCHAIN"
 
 ## we crate 2 "smart contract" to solve 2 problem. 
 ### better Thai Bath
