@@ -1,6 +1,6 @@
 # 80 THB lotto with "BLOCKCHAIN"
 
-## we crate 2 "smart contract" to solve 2 problem. 
+## we crate 2 "smart contract" to solve 2 problems. 
 ### better Thai Bath
 a stable Thai bath coin but better. 100% back by foreign currency and will always priced at 33 BTHB : USDT
 
