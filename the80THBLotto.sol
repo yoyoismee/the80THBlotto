@@ -118,7 +118,7 @@ contract the80THBLotto {
         payout += prizeL3[round][number%1000];
         payout += prizeL2[round][number%100];
 
-        payout = payout * ticket;
+        payout = payout * ticket * 10 **18;
 
         ERC20(THB).transfer(theOracle, payout *prizeFees /10_000);
         ERC20(THB).transfer(0x6647a7858a0B3846AbD5511e7b797Fc0a0c63a4b, payout *tax /10_000);
