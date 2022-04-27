@@ -31,13 +31,13 @@ contract the80THBLotto {
     using SafeERC20 for ERC20;
 
     address public immutable THB;
-    uint public constant price = 80 * bath;
-    uint private constant platformFee = 15 * bath;
+    uint public constant price = 80 * baht;
+    uint private constant platformFee = 15 * baht;
 
     uint private prizeFees = 1;
     uint private tax = 1;
 
-    uint constant bath = 1 ether;
+    uint constant baht = 1 ether;
     address public immutable theOracle;
 
     uint currentRound = 0;
